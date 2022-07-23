@@ -38,11 +38,17 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 
 - **Native Windows GUI: The Guide**: [native-windows-gui](https://gabdube.github.io/native-windows-gui/native-windows-docs/index.html)
 - **Glade3 Tutorial**: [glade3-tutorial](http://blog.borovsak.si/2009/09/glade3-tutorial-1-introduction.html)
+- **Advice for the next dozen Rust GUIs**. A post by Raph Levien, the author of `Druid`, of advice for making Rust GUIs: [next-dozen-guis](https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html)
 
 ### Compile
 
 - **Why is My Rust Build So Slow**. A post helps you to locate the reason why your rust build slow: [why-is-my-rust-build-so-slow](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
 - **Making a Rust Crate Compile Faster**. A video made by Jon Gjengset. Can also be seen as an extension of the post on the line above: [rust-compile-faster](https://www.youtube.com/watch?v=pMiqRM5ooNw)
+
+### Error-handling
+
+- **Rust Error Handling**. A long post by Andrew Gallant of how to handle error in Rust: [rust-error-handling](https://blog.burntsushi.net/rust-error-handling/)
+- *Annoucing error-stack*. A post by `hash.dev` of anouncing error-stack, a context-aware error library for Rust that supports arbitrary attached user data:[announcing-error-stack](https://hash.dev/blog/announcing-error-stack)
 
 ### Contributors
 
