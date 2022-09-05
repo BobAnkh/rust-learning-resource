@@ -10,11 +10,12 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 
 - **The Rust Programming Language(the book)**. The official rust tutorials might be your fisrt material to learn rust: [the-book](https://doc.rust-lang.org/book/#the-rust-programming-language)
 - **Rust Reference**: [rust-reference](https://doc.rust-lang.org/reference/introduction.html)
-- **Getting started with Rust**. Good for beginners who have know some basic things of rust: [get-started-with-rust](https://sodocumentation.net/rust)
+- **Getting Started with Rust**. Good for beginners who have know some basic things of rust: [get-started-with-rust](https://sodocumentation.net/rust)
 
 ### Advance
 
 - **Rust Macros**: [the-macro-book](https://danielkeep.github.io/tlborm/book/index.html)
+- **Proc Macro**. A proc macro workshop by David Tolnay: [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
 - **Rust by Example**. Well written with so many examples to show you the cases but better read this book after learning all the basic knowledage of rust: [rust-by-example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 - **Rust API Guidelines**: [rust-api-guidelines](https://rust-lang.github.io/api-guidelines/about.html#rust-api-guidelines)
 
@@ -28,6 +29,10 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 
 - **The Rustup Book**: [rustup](https://rust-lang.github.io/rustup/index.html)
 - **The Cargo Book**: [cargo](https://doc.rust-lang.org/cargo/index.html)
+
+### Performance
+
+- **Performance Evaluation and Improvement**. [performance-evaluation-improvement](https://zhuanlan.zhihu.com/p/451184900)
 
 ### Wasm
 
@@ -47,6 +52,7 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 
 ### Error-handling
 
+- **Simple Error Handling with Macro**. Very simple and easy way of basic error handling by yourself in your own rust project: [simple-errors-handling-macro](https://litchipi.github.io/rust/2022/09/03/simple-errors-handling-macro.html)
 - **Rust Error Handling**. A long post by Andrew Gallant of how to handle error in Rust: [rust-error-handling](https://blog.burntsushi.net/rust-error-handling/)
 - **Annoucing error-stack**. A post by `hash.dev` of anouncing error-stack, a context-aware error library for Rust that supports arbitrary attached user data:[announcing-error-stack](https://hash.dev/blog/announcing-error-stack)
 
