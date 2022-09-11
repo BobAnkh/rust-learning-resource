@@ -49,6 +49,7 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 
 - **Why is My Rust Build So Slow**. A post helps you to locate the reason why your rust build slow: [why-is-my-rust-build-so-slow](https://fasterthanli.me/articles/why-is-my-rust-build-so-slow)
 - **Making a Rust Crate Compile Faster**. A video made by Jon Gjengset. Can also be seen as an extension of the post on the line above: [rust-compile-faster](https://www.youtube.com/watch?v=pMiqRM5ooNw)
+- **Speeding up incremental compilation with dylibs**. [speeding-up-incremental-rust-compilation-with-dylibs](https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/)
 
 ### Error-handling
 
