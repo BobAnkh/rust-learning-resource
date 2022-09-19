@@ -57,6 +57,10 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 - **Rust Error Handling**. A long post by Andrew Gallant of how to handle error in Rust: [rust-error-handling](https://blog.burntsushi.net/rust-error-handling/)
 - **Annoucing error-stack**. A post by `hash.dev` of anouncing error-stack, a context-aware error library for Rust that supports arbitrary attached user data:[announcing-error-stack](https://hash.dev/blog/announcing-error-stack)
 
+### Game
+
+- **nature of code implemented in bevy**: [bevy-nature-of-code](https://github.com/Rust-Ninja-Sabi/bevy-nature-of-code)
+
 ### Contributors
 
 <table>
