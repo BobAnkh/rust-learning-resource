@@ -14,10 +14,19 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 
 ### Advance
 
-- **Rust Macros**: [the-macro-book](https://danielkeep.github.io/tlborm/book/index.html)
-- **Proc Macro**. A proc macro workshop by David Tolnay: [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
 - **Rust by Example**. Well written with so many examples to show you the cases but better read this book after learning all the basic knowledage of rust: [rust-by-example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 - **Rust API Guidelines**: [rust-api-guidelines](https://rust-lang.github.io/api-guidelines/about.html#rust-api-guidelines)
+- **Generics Tutorial**: Blog written on logrocket: [generics-tutorial](https://blog.logrocket.com/understanding-rust-generics/)
+- **Observable Rust**: Blog written on logrocket: [observable-rust](https://blog.logrocket.com/composing-underpinnings-observable-rust-application/)
+- **Generics in Action: API**: Blog written on logrocket: [improving-overconstrained-rust-library-apis](https://blog.logrocket.com/improving-overconstrained-rust-library-apis/)
+- **Builder Pattern**: Blog written on logrocket: [builder-pattern](https://blog.logrocket.com/build-rust-api-builder-pattern/)
+- **Log and Trace**: Blog written on logrocket: [log-and-trace](https://blog.logrocket.com/comparing-logging-tracing-rust/)
+
+### Macros
+
+- **Rust Macros**: [the-little-book-of-rust-macros](https://github.com/veykril/tlborm)
+- **Proc Macro**. A proc macro workshop by David Tolnay: [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
+- **A tutorial of Macros**. Macros tutorial on logrocket: [macros](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/), [proc-macros](https://blog.logrocket.com/procedural-macros-in-rust/)
 
 ### Async
 
