@@ -25,8 +25,9 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 ### Macros
 
 - **Rust Macros**: [the-little-book-of-rust-macros](https://github.com/veykril/tlborm)
-- **Proc Macro**. A proc macro workshop by David Tolnay: [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
+- **Proc Macro**. A proc macros workshop by David Tolnay: [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
 - **A tutorial of Macros**. Macros tutorial on logrocket: [macros](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/), [proc-macros](https://blog.logrocket.com/procedural-macros-in-rust/)
+- **MacroKata**: A workshop for rust macros(mainly for declarative macros): [macrokata](https://github.com/tfpk/macrokata)
 
 ### Async
 
