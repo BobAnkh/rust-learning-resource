@@ -21,6 +21,7 @@ A collection of awesome rust learning resources(books, notes, videos, posts, pod
 - **Generics in Action: API**: Blog written on logrocket: [improving-overconstrained-rust-library-apis](https://blog.logrocket.com/improving-overconstrained-rust-library-apis/)
 - **Builder Pattern**: Blog written on logrocket: [builder-pattern](https://blog.logrocket.com/build-rust-api-builder-pattern/)
 - **Log and Trace**: Blog written on logrocket: [log-and-trace](https://blog.logrocket.com/comparing-logging-tracing-rust/)
+- **Effective Rust**: 35 Specific Ways to Improve Your Rust Code: [effective-rust](https://www.lurklurk.org/effective-rust/)
 
 ### Macros
 
